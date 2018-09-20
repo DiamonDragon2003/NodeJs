@@ -49,7 +49,8 @@ module.exports = function (server) {
                 // сделать handshakeData.cookies - объектом с cookie
                 handshake.cookies = cookie.parse(handshake.headers.cookie || '');
                 var sidCookie = handshake.cookies[config.get('session:key')];
-                var sid = connect.utils.parseSignedCookie(sidCookie, config.get('session:secret'));
+                var cookieParser = require('cookie-parser');
+                var sid = cookieParser.signedCookie(sidCookie, config.get('session:secret'));
 
                 loadSession(sid, callback);
             },
