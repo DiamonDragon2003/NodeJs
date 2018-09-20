@@ -1,0 +1,19 @@
+{
+    "port": 80,
+    "mongoose": {
+        "uri": "mongodb://Andrey:019181716151413121a@ds135952.mlab.com:35952/invisiblerbase",
+        "options":{
+            "useNewUrlParser": true,
+            "autoIndex": false
+        }
+    },
+    "session":{
+        "secret": "Chat_Web_S",
+        "key": "sid",
+        "cookie": {
+            "path": "/",
+            "httpOnly": true,
+            "maxAge": null
+          }
+    }    
+}

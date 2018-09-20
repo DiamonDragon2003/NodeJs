@@ -1,34 +1,24 @@
 {
-  "name": "nodejs-ex",
+  "name": "application-name",
   "version": "0.0.1",
-  "description": "Node.js sample app for OpenShift 3",
-  "main": "server.js",
-  "dependencies": {
-    "chai": "^3.5.0",
-    "chai-http": "^2.0.1",
-    "ejs": "^2.4.1",
-    "express": "^4.13.4",
-    "mocha": "^2.4.5",
-    "mongodb": "^2.1.16",
-    "morgan": "^1.7.0",
-    "object-assign":"4.1.0"
-  },
-  "engine": {
-    "node": "*",
-    "npm": "*"
-  },
+  "private": true,
   "scripts": {
-    "start": "node server.js",
-    "test": "IP=0.0.0.0 PORT=3030 mocha --timeout 5000 tests/*_test.js"
+    "start": "NODE_PATH=. NODE_ENV=development node app.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "http://github.com/sclorg/nodejs-ex.git"
-  },
-  "author": "Steve Speicher <sspeiche@gmail.com>",
-  "license": "CC-BY-1.0",
-  "bugs": {
-    "url": "http://github.com/sclorg/nodejs-ex/issues"
-  },
-  "homepage": "http://github.com/sclorg/nodejs-ex"
+  "dependencies": {
+    "async": "^2.6.1",
+    "connect": "^3.6.6",
+    "connect-mongo": "^2.0.1",
+    "cookie": "^0.3.1",
+    "ejs": "*",
+    "ejs-locals": "^1.0.2",
+    "errorhandler": "^1.5.0",
+    "express": "^3.3.8",
+    "express-session": "^1.15.6",
+    "mongodb": "^3.1.4",
+    "mongoose": "^5.2.12",
+    "nconf": "^0.10.0",
+    "socket.io": "^2.1.1",
+    "winston": "^3.0.0"
+  }
 }
