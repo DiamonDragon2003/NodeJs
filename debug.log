@@ -28,3 +28,469 @@
 {"message":"Express server listening on port 8080","level":"info"}
 {"level":"debug","message":"retrieving user "}
 {"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"message":"Express server listening on port 8080","level":"info"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"message":"Express server listening on port 8080","level":"info"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"message":"Express server listening on port 8080","level":"info"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"message":"Express server listening on port 8080","level":"info"}
+{"level":"debug","message":"retrieving user "}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
+{"level":"debug","message":"retrieving user "}
+{"message":"user findbyId result: { _id: 5b9d57701ac1dc0056c113a4,\n  username: 'name',\n  salt: '0.7870892613495619',\n  hashedPassword: '93eb908a64217dab26bae0c2dd8140a5e12baee5',\n  created: 2018-09-15T19:03:12.165Z,\n  __v: 0 }","level":"debug"}
